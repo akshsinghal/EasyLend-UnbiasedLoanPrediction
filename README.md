@@ -23,7 +23,7 @@ a) Data Science :
 2) Integrating the visualization of the result from the model on WebApp.
 
 b)Direct SMS and WhatsApp Bot :
-1) Sending the text message back from the Flask server to the SMS bot running on NodeJS code after making loan approval predictions.
+1) Sending the text messages back from the Flask server to the SMS bot running on NodeJS code after making loan approval predictions.
 
 2) Integrating the full-fledged WhatsApp bot with the backend server to get the predictions.
 
